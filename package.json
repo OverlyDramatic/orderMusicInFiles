@@ -1,0 +1,14 @@
+{
+  "name": "readmp3_test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "./lib/orderMusicByDir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "707863670@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "jsmediatags": "^3.9.1"
+  }
+}
